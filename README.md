@@ -1,4 +1,4 @@
-# Send SMS 
+# MCA Company Info
 
 This Python script fetches company information/Director Information from Ministry of Corporate Affairs Website in Python
 

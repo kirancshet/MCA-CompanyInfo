@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:         send_sms.py
+# Name:         utils.py
 # Purpose:      This Python script fetches company information/Director Information from 
 #               Ministry of Corporate Affairs Website in Python
 # Author:       Kiran Chandrashekhar
